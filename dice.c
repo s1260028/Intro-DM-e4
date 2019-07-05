@@ -10,5 +10,6 @@ int main(){
   b = rand()%6+1;
 
   printf("Die 1:%d\nDie 2:%d\n",a,b);
+  printf("Total value: %d\n",a+b); 
   return 0;
 }
